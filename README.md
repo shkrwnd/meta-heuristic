@@ -10,4 +10,4 @@ Tripod
 ![ScreenShot](/tripod.jpg)
 
 Simulated Annealing
-![ScreenShot](/as_fig.jpg)
+![ScreenShot](/sa_fig.jpg)
