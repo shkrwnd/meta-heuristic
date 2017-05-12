@@ -1,10 +1,11 @@
 # meta-heuristic
 
 Ursem Waves
-![Screenshot] (/ursemwaves.jpg)
+![ScreenShot](/ursemwaves.jpg)
 
 Ursem
-![Screenshot] (/ursem.jpg)
+![ScreenShot](/ursem.jpg)
 
 Tripod
-![Screenshot] (/tripod.jpg)
+![ScreenShot](/tripod.jpg)
+
